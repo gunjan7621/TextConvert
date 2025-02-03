@@ -1,3 +1,7 @@
+# To get the preview of the app 
+Clone the app into your local system and then run the below command in the terminal in the folder where the app is cloned
+npm install
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
